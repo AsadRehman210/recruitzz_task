@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/recruitzz_task.git/static/css/main.2a9a26f2.css",
+    "main.js": "/recruitzz_task.git/static/js/main.fa18cac4.js",
+    "static/media/profile.svg": "/recruitzz_task.git/static/media/profile.c4ffe0a97002f13374c2bd990934a735.svg",
+    "static/media/logo.svg": "/recruitzz_task.git/static/media/logo.11756501adb0f901b853c5e5aba3a0b5.svg",
+    "index.html": "/recruitzz_task.git/index.html",
+    "static/media/bell.svg": "/recruitzz_task.git/static/media/bell.7824831d4b629d16baeff3faae5dda44.svg",
+    "static/media/search.svg": "/recruitzz_task.git/static/media/search.ad2f9d996d24e19d248a72edef552d37.svg",
+    "static/media/close.svg": "/recruitzz_task.git/static/media/close.1d32a8b1c555a56fdfb913e4c7414a62.svg",
+    "static/media/dropdown.svg": "/recruitzz_task.git/static/media/dropdown.1a0bcd2e76327f4ffd253b6bfd6a5131.svg",
+    "static/media/add.svg": "/recruitzz_task.git/static/media/add.5f44f85c7af33a5839550ddff13cee86.svg",
+    "main.2a9a26f2.css.map": "/recruitzz_task.git/static/css/main.2a9a26f2.css.map",
+    "main.fa18cac4.js.map": "/recruitzz_task.git/static/js/main.fa18cac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9a26f2.css",
+    "static/js/main.fa18cac4.js"
+  ]
+}
