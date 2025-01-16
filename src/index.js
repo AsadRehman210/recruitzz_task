@@ -9,9 +9,9 @@ import { store } from './redux/store';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Provider store={store}> 
-    <Router basename="/">
-      <React.StrictMode>
+  <React.StrictMode>
+    <Provider store={store}>
+      <Router basename="/">
         <ToastContainer
           position="top-right"
           autoClose={5000}
@@ -26,7 +26,7 @@ root.render(
           transition={Bounce}
         />
         <App />
-      </React.StrictMode>
-    </Router>
-  </Provider>
+      </Router>
+    </Provider>
+  </React.StrictMode>
 );
